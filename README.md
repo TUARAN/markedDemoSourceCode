@@ -1,6 +1,6 @@
 ## 缘起
 
-[https://github.com/fontendFork/marked demo](https://marked.js.org/demo/) 的源码（本人爬取）
+[https://github.com/markedjs/marked demo](https://marked.js.org/demo/) 的源码（本人爬取）
 
 ## 食用方式
 
